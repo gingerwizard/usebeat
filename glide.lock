@@ -1,0 +1,102 @@
+hash: a473cb8eb24faa16774c1a54cc25e45e4872b42979d511bb5a153693e2f2c26b
+updated: 2016-05-10T11:45:39.028830638+02:00
+imports:
+- name: github.com/dustin/go-humanize
+  version: 8929fe90cee4b2cb9deb468b51fb34eba64d1bf0
+- name: github.com/eapache/go-resiliency
+  version: b86b1ec0dd4209a588dc1285cdd471e73525c0b3
+  subpackages:
+  - breaker
+- name: github.com/eapache/queue
+  version: ded5959c0d4e360646dc9e9908cff48666781367
+- name: github.com/elastic/beats
+  version: ba09d7affbe091f23ebe9acd1151e87db53af462
+  subpackages:
+  - libbeat/beat
+  - metricbeat/beater
+  - metricbeat/helper
+  - metricbeat/include
+  - metricbeat/mb
+  - libbeat/common
+  - libbeat/cfgfile
+  - libbeat/filter
+  - libbeat/logp
+  - libbeat/paths
+  - libbeat/publisher
+  - libbeat/service
+  - metricbeat/module/apache
+  - metricbeat/module/apache/status
+  - metricbeat/module/mysql
+  - metricbeat/module/mysql/status
+  - metricbeat/module/redis
+  - metricbeat/module/redis/info
+  - metricbeat/module/system
+  - metricbeat/module/system/cpu
+  - metricbeat/module/system/filesystem
+  - metricbeat/module/system/fsstats
+  - metricbeat/module/system/memory
+  - metricbeat/module/system/process
+  - metricbeat/module/zookeeper
+  - metricbeat/module/zookeeper/mntr
+  - libbeat/common/op
+  - libbeat/outputs
+  - libbeat/outputs/console
+  - libbeat/outputs/elasticsearch
+  - libbeat/outputs/fileout
+  - libbeat/outputs/kafka
+  - libbeat/outputs/logstash
+  - libbeat/outputs/redis
+  - topbeat/system
+  - libbeat/common/streambuf
+  - libbeat/outputs/mode
+  - libbeat/outputs/mode/modeutil
+  - libbeat/outputs/transport
+  - libbeat/outputs/mode/lb
+  - libbeat/outputs/mode/single
+- name: github.com/elastic/gosigar
+  version: e9bc408cebda400d161a8b852b38405fadce7502
+- name: github.com/garyburd/redigo
+  version: 8873b2f1995f59d4bcdd2b0dc9858e2cb9bf0c13
+  subpackages:
+  - redis
+  - internal
+- name: github.com/go-ole/go-ole
+  version: 0e87ea779d9deb219633b828a023b32e1244dd57
+  subpackages:
+  - oleutil
+- name: github.com/go-sql-driver/mysql
+  version: 7ebe0a500653eeb1859664bed5e48dec1e164e73
+- name: github.com/golang/snappy
+  version: 894fd4616c897c201d223c3c0c128e8c648c96a2
+- name: github.com/joeshaw/multierror
+  version: 69b34d4ec901851247ae7e77d33909caf9df99ed
+- name: github.com/klauspost/crc32
+  version: 6973dcf6594efa905c08260fe9120cae92ab4305
+- name: github.com/nranchev/go-libGeoIP
+  version: c78e8bd2dd3599feb21fd30886043979e82fe948
+- name: github.com/pkg/errors
+  version: cd6e0b425dfeaa184e93ed993aaee9dea03dc14d
+- name: github.com/satori/go.uuid
+  version: f9ab0dce87d815821e221626b772e3475a0d2749
+- name: github.com/Shopify/sarama
+  version: 4ba9bba6adb6697bcec3841e1ecdfecf5227c3b9
+- name: github.com/StackExchange/wmi
+  version: f3e2bae1e0cb5aef83e319133eabfee30013a4a5
+- name: github.com/urso/ucfg
+  version: 55e5fb343ba418d5ae520df8d603f292af0fd500
+  subpackages:
+  - yaml
+- name: golang.org/x/net
+  version: d58ca6618b994150e624f6888d871f4709db51a0
+  subpackages:
+  - proxy
+  - publicsuffix
+- name: golang.org/x/sys
+  version: b776ec39b3e54652e09028aaaaac9757f4f8211a
+  subpackages:
+  - windows/svc
+  - windows/svc/debug
+  - windows
+- name: gopkg.in/yaml.v2
+  version: a83829b6f1293c91addabc89d0571c246397bbf4
+devImports: []

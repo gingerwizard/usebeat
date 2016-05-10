@@ -4,10 +4,10 @@ import (
 	"os"
 	"github.com/elastic/beats/metricbeat/beater"
 
-	"github.com/elastic/beats/metricbeat/include"
+	_"github.com/elastic/beats/metricbeat/include"
 
-	"github.com/gingerwizard/usebeat/module/use"
-	"github.com/gingerwizard/usebeat/module/use/cpu"
+	_"github.com/gingerwizard/usebeat/module/use"
+	_"github.com/gingerwizard/usebeat/module/use/cpu"
 
 	"github.com/elastic/beats/libbeat/beat"
 )
