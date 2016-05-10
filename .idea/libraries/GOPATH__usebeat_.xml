@@ -1,0 +1,63 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;usebeat&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/bpf/testdata" />
+      <root url="file://$PROJECT_DIR$/../kafkabeat/vendor/github.com/eapache/queue/.git" />
+      <root url="file://$PROJECT_DIR$/../kafkabeat/vendor/github.com/eapache/go-resiliency/.git" />
+      <root url="file://$PROJECT_DIR$/../kafkabeat/.idea" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/.git" />
+      <root url="file://$PROJECT_DIR$/../../ruflin/df2beat/.git" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/go/ssa/interp/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/cmd/guru/testdata" />
+      <root url="file://$PROJECT_DIR$/../kafkabeat/vendor/github.com/elastic/beats/.github" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/go/ssa/ssautil/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/refactor/eg/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tour/.git" />
+      <root url="file://$PROJECT_DIR$/../kafkabeat/vendor/github.com/golang/snappy/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/cmd/cover/testdata" />
+      <root url="file://$PROJECT_DIR$/../kafkabeat/vendor/github.com/elastic/beats/.git" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/http2/testdata" />
+      <root url="file://$PROJECT_DIR$/../../ruflin/df2beat/.idea" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/go/loader/testdata" />
+      <root url="file://$PROJECT_DIR$/../kafkabeat/vendor/github.com/Shopify/sarama/.git" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/cmd/bundle/testdata" />
+      <root url="file://$PROJECT_DIR$/../kafkabeat/vendor/github.com/elastic/beats/vendor/github.com/davecgh/go-spew/spew/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/go/pointer/testdata" />
+      <root url="file://$PROJECT_DIR$/../../elastic/beats/vendor/github.com/davecgh/go-spew/spew/testdata" />
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$/.git" />
+      <root url="file://$PROJECT_DIR$/../kafkabeat/vendor/github.com/davecgh/go-spew/spew/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/.git" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/go/callgraph/cha/testdata" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/go/callgraph/rta/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/go/gcimporter15/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/cmd/stringer/testdata" />
+      <root url="file://$PROJECT_DIR$/../../elastic/beats/.git" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/html/charset/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/cmd/callgraph/testdata" />
+      <root url="file://$PROJECT_DIR$/../kafkabeat/vendor/github.com/elastic/beats/metricbeat/module/redis/.kibana" />
+      <root url="file://$PROJECT_DIR$/../../elastic/beats/vendor/github.com/urso/ucfg/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/cmd/fiximports/testdata" />
+      <root url="file://$PROJECT_DIR$/../kafkabeat/.git" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/go/ssa/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/oracle/testdata" />
+      <root url="file://$PROJECT_DIR$/../../elastic/beats/.github" />
+      <root url="file://$PROJECT_DIR$/../kafkabeat/vendor/github.com/wvanbergen/kazoo-go/.git" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/html/testdata" />
+      <root url="file://$PROJECT_DIR$/../../elastic/beats/vendor/golang.org/x/text/encoding/testdata" />
+      <root url="file://$PROJECT_DIR$/../../elastic/beats/metricbeat/module/redis/.kibana" />
+      <root url="file://$PROJECT_DIR$/../kafkabeat/vendor/github.com/elastic/beats/vendor/golang.org/x/text/encoding/testdata" />
+      <root url="file://$PROJECT_DIR$/../kafkabeat/vendor/github.com/samuel/go-zookeeper/.git" />
+      <root url="file://$PROJECT_DIR$/../kafkabeat/vendor/github.com/davecgh/go-spew/.git" />
+      <root url="file://$PROJECT_DIR$/../kafkabeat/vendor/github.com/golang/snappy/.git" />
+      <root url="file://$PROJECT_DIR$/../kafkabeat/vendor/github.com/klauspost/crc32/.git" />
+    </excluded>
+  </library>
+</component>

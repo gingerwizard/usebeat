@@ -1,0 +1,8 @@
+package: github.com/gingerwizard/usebeat
+import:
+- package: github.com/elastic/beats
+  subpackages:
+  - /libbeat/beat
+  - metricbeat/beater
+  - metricbeat/helper
+  - metricbeat/include

@@ -1,0 +1,6 @@
+metricbeat:
+  modules:
+    - module: use
+      metricsets: ["cpu"]
+      period: 1s
+      enabled: true
